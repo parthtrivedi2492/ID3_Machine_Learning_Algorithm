@@ -1,0 +1,12 @@
+1) Run following cases with your code. 
+2) Copy only output files in the folder with your utd mail id. 
+ e.g xyz130OO
+3) Make sure your name is present in the output files on top.  
+4) Output format should be same as mentioned in the assignment.
+ 
+ dataset1.txt partition1-0.txt
+ dataset1.txt partition1-1.txt
+ dataset1.txt partition1-2.txt
+ dataset2.txt partition2-1.txt
+ dataset3.txt partition3-1.txt
+ dataset4.txt partition4-1.txt
